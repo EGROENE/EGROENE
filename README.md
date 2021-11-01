@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ethan
 - 👀 I’m interested in becoming a freelance developer
-- 🌱 I’m currently learning HTML & CSS (eventually, JavaScript)
+- 🌱 I’m currently learning HTML, CSS, & GitHub (soon, JavaScript)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: search my name on LinkedIn
 
