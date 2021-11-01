@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EGROENE
+- 👋 Hi, I’m Ethan
 - 👀 I’m interested in becoming a freelance developer
 - 🌱 I’m currently learning HTML & CSS (eventually, JavaScript)
 - 💞️ I’m looking to collaborate on ...
