@@ -22,6 +22,9 @@ Hey there! I am a freelance front-end web developer learning React.js at the mom
 
 ### See some of my projects [here](https://github.com/EGROENE?tab=repositories), or scroll below to see some that I've pinned.
 
+### Human languages I know:
+English German U+1F1E9
+
 ### Connect with me:
 - [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/)
 - [Medium](https://medium.com/@ethangroene)
