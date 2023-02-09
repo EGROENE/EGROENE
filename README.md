@@ -30,8 +30,14 @@ I am a freelance front-end web developer learning React.js at the moment. In add
 - German
 - Spanish (intermediate level)
 
+### Hire me here:
+- [Upwork](https://www.upwork.com/freelancers/~018b389ed0ba3fb8ba)
+- [Fiverr](https://www.fiverr.com/ethangroene/build-a-website-for-you-or-help-out-with-frontend-development)
+
 ### Connect with me:
 - [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/)
+
+### I write articles here:
 - [Medium](https://medium.com/@ethangroene)
 - [Tealfeed](https://tealfeed.com/ethan_172708)
 
