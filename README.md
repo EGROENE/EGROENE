@@ -23,7 +23,9 @@ Hey there! I am a freelance front-end web developer learning React.js at the mom
 ### See some of my projects [here](https://github.com/EGROENE?tab=repositories), or scroll below to see some that I've pinned.
 
 ### Human languages I know:
-English :us: German :de: Spanish :mexico-flag: (intermediate level)
+- English
+- German (data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAKlBMVEVHcEwUFBQUFBT/zQX/zQX/zQX/zQUUFBQUFBQUFBT/zQXtHyQUFBT/zQXvNjMPAAAAC3RSTlMAYL/Pv2AgIM/v77g+icYAAABwSURBVHja7dA5DoAwEENRZyMLw/2viwZR04wLFPkf4MkylNq3lC1QTi/ThwUb/XGmhZsuDSM0gGSUEjIHyjBSggQJ+gwnKUGCBAnaD7pICRL0L6hynIrGgRpQGE4BcKy4sw64VMJ73PFaDf3coNS23b8crFXV2a7uAAAAAElFTkSuQmCC)
+- Spanish () (intermediate level)
 
 ### Connect with me:
 - [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/)
