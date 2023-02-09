@@ -36,8 +36,6 @@ I am a freelance front-end web developer learning React.js at the moment. In add
 
 ### Connect with me on [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/)
 
-### I write articles here:
-- [Medium](https://medium.com/@ethangroene)
-- [Tealfeed](https://tealfeed.com/ethan_172708)
+### I write articles on [Medium](https://medium.com/@ethangroene) & [Tealfeed](https://tealfeed.com/ethan_172708)
 
 ### If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm half-joking. :ping_pong:
