@@ -23,7 +23,7 @@ Hey there! I am a freelance front-end web developer learning React.js at the mom
 ### See some of my projects [here](https://github.com/EGROENE?tab=repositories), or scroll below to see some that I've pinned.
 
 ### Human languages I know:
-- English <img src="https://user-images.githubusercontent.com/87001519/217711141-cf7f4a7f-6e0d-45dd-a629-188c24e8d031.png" height="100px"><figcaption>ENGLISH</figcaption>
+<img src="https://user-images.githubusercontent.com/87001519/217711141-cf7f4a7f-6e0d-45dd-a629-188c24e8d031.png" height="100px"><figcaption>ENGLISH</figcaption>
 - German
 - Spanish (intermediate level)
 
