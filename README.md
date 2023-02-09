@@ -35,4 +35,4 @@ Hey there! I am a freelance front-end web developer learning React.js at the mom
 - [Medium](https://medium.com/@ethangroene)
 - [Tealfeed](https://tealfeed.com/ethan_172708)
 
-### I'm also pretty good at ping-pong :ping_pong:
+### If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm half-joking. :ping_pong:
