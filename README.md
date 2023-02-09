@@ -36,4 +36,4 @@ I am a freelance front-end web developer learning React.js at the moment. In add
 
 ### I write articles on [Medium](https://medium.com/@ethangroene) & [Tealfeed](https://tealfeed.com/ethan_172708)
 
-### If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm half-joking. :ping_pong:
+### If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
