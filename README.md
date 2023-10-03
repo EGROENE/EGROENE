@@ -1,8 +1,10 @@
 ## About Me
 
-I am a front-end web developer from the United States (Michigan) & I'm learning React.js at the moment. In addition, I am working my way through the [Devslopes Academy](https://devslopes.com/), which provides training & mentorship to make me a better programmer. Once I get better at React.js, I will be looking for a full-time developer position at a company, where I hope to learn in-person from developers who are better than me. I will probably continue to work on freelance projects as I am able to. 
+I am a front-end web developer from the United States (Michigan) & I'm learning React.js & TypeScript at the moment. In addition, I am working my way through the [Devslopes Academy](https://devslopes.com/), which provides training & mentorship. I am also learning some things on my own by working on personal projects & using other resources.
 
-In terms of work, I wear a few different hats, but I wanted to find a career that sparked my creativity more than some of the things I've been doing, so I eventually made my way to the programming world a couple years ago, and never looked back. I feel like this has breathed new life into my soul, at least in terms of my work life.
+In terms of work, I wear a few different hats, but I wanted to find a career that sparked my creativity more than some of the things I've been doing, so I eventually made my way to the programming world a couple years ago, and never looked back. I feel like this has breathed new life into my soul, at least in terms of my work life. I love the way programming makes me think, and there's no better feeling than to build something from the ground up & to see it working the way I imagined. On second thought, I guess there are a few better feelings in life, but not many; that's beside the point. 
+
+I am here on GitHub because of, obviously, the version-control system, but also because so many other programmers are as well; it's neat to make connections others here & see what they've created, too, as well as to occasionally hear feedback on my own projects. So, if you'd like to get to know me more, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/).
 
 ### What I can work with:
 ![HTML5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
