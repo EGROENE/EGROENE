@@ -28,9 +28,6 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 #### IDE(s):
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
-### What I'm working to get better at:
-![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ### What I plan to learn:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logoColor=ECFF00)
