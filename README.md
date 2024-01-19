@@ -16,6 +16,14 @@ I am here on GitHub because of, obviously, the version-control system, but also 
 #### Frameworks/Libraries:
 ![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+#### Version Control:
+![GIT](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=000000)
+![GITHUB](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23181717)
+#### Tooling:
+![VITE](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ECFF00)
+
+#### API Platform(s):
+![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logoColor=ECFF00)
 
 #### Deployment Services:
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=npm&logoColor=00C7B7)
@@ -24,18 +32,8 @@ I am here on GitHub because of, obviously, the version-control system, but also 
 #### Package Manager(s):
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm)
 
-#### Version Control:
-![GIT](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=000000)
-![GITHUB](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23181717)
-
 #### IDE(s):
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-
-#### Tooling:
-![VITE](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ECFF00)
-
-#### API Platform(s):
-![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logoColor=ECFF00)
 
 ### What I'm working to get better at:
 ![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
