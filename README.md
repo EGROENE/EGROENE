@@ -26,7 +26,7 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 #### IDE(s):
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
-### What I plan to learn:
+#### What I plan to learn:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logoColor=ECFF00)
 ![VueJS](https://img.shields.io/badge/VueJS-%23000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -34,17 +34,17 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=000000)
 ![TailWindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000000)
 
-### See some of my projects [here](https://github.com/EGROENE?tab=repositories), or scroll below to see some that I've pinned.
+#### See some of my projects [here](https://github.com/EGROENE?tab=repositories), or scroll below to see some that I've pinned.
 
-### Human languages I know:
+#### Human languages I know:
 - English
 - German
 - Spanish (intermediate level)
 
-### Hire me on [Upwork](https://www.upwork.com/freelancers/~018b389ed0ba3fb8ba) or [Fiverr](https://www.fiverr.com/ethangroene/build-a-website-for-you-or-help-out-with-frontend-development)
+#### Hire me on [Upwork](https://www.upwork.com/freelancers/~018b389ed0ba3fb8ba) or [Fiverr](https://www.fiverr.com/ethangroene/build-a-website-for-you-or-help-out-with-frontend-development)
 
-### Connect with me on [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/)
+#### Connect with me on [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/)
 
-### I write articles on [Medium](https://medium.com/@ethangroene) & [Tealfeed](https://tealfeed.com/ethan_172708)
+#### I write articles on [Medium](https://medium.com/@ethangroene) & [Tealfeed](https://tealfeed.com/ethan_172708)
 
-### If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
+#### If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
