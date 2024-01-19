@@ -7,18 +7,34 @@ In terms of work, I wear a few different hats, but I wanted to find a career tha
 I am here on GitHub because of, obviously, the version-control system, but also because so many other programmers are as well; it's neat to make connections others here & see what they've created, too, as well as to occasionally hear feedback on my own projects. So, if you'd like to get to know me more, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/).
 
 ### What I can work with:
+#### Languages
 ![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS-%23D7D7D7?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+
+#### Frameworks/Libraries:
 ![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+
+#### Deployment Services:
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=npm&logoColor=00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=000000)
+
+#### Package Manager(s):
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm)
+
+#### Version Control:
 ![GIT](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=000000)
 ![GITHUB](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23181717)
+
+#### IDE(s):
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+
+#### Tooling:
 ![VITE](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ECFF00)
+
+#### API Platform(s):
 ![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logoColor=ECFF00)
 
 ### What I'm working to get better at:
