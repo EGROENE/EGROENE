@@ -3,8 +3,6 @@
 I am a front-end web developer from the United States (Michigan) & I'm learning React.js, TypeScript, and backend stuff at the moment. In addition, I am working my way through the [Devslopes Academy](https://devslopes.com/), which provides training & mentorship. I am also learning some things on my own by working on personal projects & using other resources.
 
 If you'd like to get to know me more, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ethan-groene-1a352710b/).
-
-### What I can work with:
 #### Languages:
 ![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS-%23D7D7D7?style=for-the-badge&logo=css3&logoColor=1572B6)
