@@ -7,7 +7,7 @@ In terms of work, I wear a few different hats, but I wanted to find a career tha
 I am here on GitHub because of, obviously, the version-control system, but also because so many other programmers are as well; it's neat to make connections others here & see what they've created, too, as well as to occasionally hear feedback on my own projects. So, if you'd like to get to know me more, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/ethan-groene-1a352710b/).
 
 ### What I can work with:
-[!HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 [!CSS3](https://img.shields.io/badge/CSS-%23D7D7D7?style=for-the-badge&logo=css3&logoColor=1572B6)
 [!JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 [!TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
