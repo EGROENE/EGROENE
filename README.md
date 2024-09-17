@@ -2,8 +2,6 @@
 
 I am a front-end web developer from the United States (Michigan) & I'm working with mostly React.js & TypeScript at the moment, and I plan to level up on backend stuff in the near future. In addition, I am working my way through the [Devslopes Academy](https://devslopes.com/), which provides training & mentorship. On my profile here, you can see various projects I've worked on (mostly projects I've worked on with the intention of improving my skills or just playing around).
 
-See my CodeWars solutions [here](https://www.codewars.com/users/EGROENE/completed_solutions).
-
 If you'd like to get to know me more, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ethan-groene-1a352710b/).
 #### Languages:
 ![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FFFFFF)
