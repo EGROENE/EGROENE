@@ -8,6 +8,8 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![CSS3](https://img.shields.io/badge/CSS-%23D7D7D7?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+#### Database(s):
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 #### Frameworks/Libraries:
 ![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
 #### Version Control:
@@ -27,7 +29,6 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
 #### What I plan to learn:
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logoColor=ECFF00)
 ![VueJS](https://img.shields.io/badge/VueJS-%23000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![EXPRESSJS](https://img.shields.io/badge/ExpressJS-%23000000?style=for-the-badge&logo=express&logoColor=4FC08D)
