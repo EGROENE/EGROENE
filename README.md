@@ -1,8 +1,9 @@
 ## About Me
 
-I am a front-end web developer from the United States (Michigan) & I'm working with mostly React.js & TypeScript at the moment, and I plan to level up on backend stuff in the near future. In addition, I am working my way through the [Devslopes Academy](https://devslopes.com/), which provides training & mentorship. On my profile here, you can see various projects I've worked on (mostly projects I've worked on with the intention of improving my skills or just playing around).
+I am a front-end web developer from the United States (Michigan) & I'm working with mostly React.js & TypeScript at the moment, and, as of October 2024, I've begun expanding my knowledge on the backend a bit by setting up a database on MongoDB & making it queryable in a project. I have been a part of [Devslopes Academy](https://devslopes.com/) since August 2021; this has provided me with training & mentorship. I plan to complete the Meta Front-End Certification in the coming months (as of October 2024). On my profile here, you can see various projects I've worked on (mostly projects I've worked on with the intention of improving my skills or just playing around).
 
 If you'd like to get to know me more, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ethan-groene-1a352710b/).
+
 #### Languages:
 ![HTML5](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS-%23D7D7D7?style=for-the-badge&logo=css3&logoColor=1572B6)
