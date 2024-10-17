@@ -49,4 +49,4 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 
 #### I write articles on [Medium](https://medium.com/@ethangroene) & [Tealfeed](https://tealfeed.com/ethan_172708)
 
-#### I'm a former pallet worker/forklift driver, accountant, English teacher, & I'm still busy as a private English/German tutor, which I do at least a few hours every day of the week, at least. If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
+#### I'm a former pallet worker/forklift driver, accountant, English teacher (in Mexico for 9 months), & I'm still busy as a private English/German tutor, which I do at least a few hours every day of the week, at least. If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
