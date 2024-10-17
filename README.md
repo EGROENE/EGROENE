@@ -32,7 +32,7 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
 #### What I plan to learn:
-![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logoColor=ECFF00)
+![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=ECFF00)
 ![VueJS](https://img.shields.io/badge/VueJS-%23000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=000000)
 ![TailWindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000000)
