@@ -13,16 +13,18 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 #### Frameworks/Libraries:
 ![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
+![EXPRESSJS](https://img.shields.io/badge/ExpressJS-%23000000?style=for-the-badge&logo=express&logoColor=4FC08D)
 #### Version Control:
 ![GIT](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=000000)
 ![GITHUB](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23181717)
-#### Tooling/Runtime Environments:
+#### Tooling/Runtime/Server Environment(s):
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![VITE](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ECFF00)
 #### API Platform(s):
 ![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logoColor=ECFF00)
 #### Deployment Services:
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=npm&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=000000)
 #### Package Manager(s):
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm)
@@ -32,7 +34,6 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 #### What I plan to learn:
 ![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=for-the-badge&logoColor=ECFF00)
 ![VueJS](https://img.shields.io/badge/VueJS-%23000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![EXPRESSJS](https://img.shields.io/badge/ExpressJS-%23000000?style=for-the-badge&logo=express&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=000000)
 ![TailWindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000000)
 
