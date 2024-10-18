@@ -10,7 +10,7 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 #### Database(s):
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23704214?style=for-the-badge&logo=mongodb&logoColor=47A248)
 #### Frameworks/Libraries:
 ![ReactJS](https://img.shields.io/badge/React-%23464646?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![EXPRESSJS](https://img.shields.io/badge/ExpressJS-%23000000?style=for-the-badge&logo=express&logoColor=4FC08D)
