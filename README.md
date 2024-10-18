@@ -21,7 +21,7 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![VITE](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ECFF00)
 #### API Platform(s):
-![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logoColor=ECFF00)
+![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=000000)
 #### Deployment Services:
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=npm&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)
