@@ -30,8 +30,6 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=flat&logo=heroku&logoColor=000000)
 #### Package Manager(s):
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=flat&logo=npm)
-#### IDE(s):
-![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff)
 
 #### What I plan to learn:
 ![NEXT.JS](https://img.shields.io/badge/NextJS-%23000000?style=flat&logo=nextdotjs&logoColor=61DAFB)
@@ -52,4 +50,4 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 
 #### I write articles on [Medium](https://medium.com/@ethangroene) & [Tealfeed](https://tealfeed.com/ethan_172708)
 
-#### I've worked as a pallet worker/forklift driver, English teacher (in Mexico for 9 months), English/German tutor, & accountant. If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
+#### I've also worked as a pallet worker/forklift driver, English teacher (in Mexico for 9 months), English/German tutor, & accountant. If I hadn't chosen to get into programming, I may have chosen to go pro in table tennis. I'm only half-joking. :ping_pong:
